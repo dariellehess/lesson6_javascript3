@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 8, 2018
 
 ### Student Name:  
-(First and Last Name)
+Darielle Hess
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment I made an application in JavaScript that contains a photo gallery carosel with images.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://dariellehess.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. One concept I learned in this assignment is the Document Object Model (DOM), which is a structure of objects with a set of properties and methods.
+2. DHTML or Dynamic Hypertext Transfer Protocol is a way to have interaction change contents of a webpage without refreshing the page.
+3. Browser Object Model (BOM) is a hierarchy of objects where each object provides programmatic access.
